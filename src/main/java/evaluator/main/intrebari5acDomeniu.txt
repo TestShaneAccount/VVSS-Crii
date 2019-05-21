@@ -1,0 +1,35 @@
+cat e 2+2
+3
+4
+5
+4
+mate
+##
+ce faci
+bine
+rau
+bine
+bine
+weekend
+##
+capitala romaniei
+bucuresti
+londra
+brasov
+bucuresti
+geografie
+##
+capitala romaniei
+bucuresti
+londra
+brasov
+brasov
+geografie
+##
+capitala romaniei
+bucuresti
+londra
+brasov
+brasov
+geografie
+##
